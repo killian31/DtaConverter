@@ -1,5 +1,6 @@
 # DtaConverter
 Short script to convert .dta file to .csv
-\nDon't forget to install the required libraries to make it work.
+
+Don't forget to install the required libraries to make it work.
 ## Install requirements :
 pip install -r requirements.txt
